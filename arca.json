@@ -6,14 +6,14 @@
             "bin": [
                 "arca.exe"
             ],
-            "hash": "17026ecde74b4e293b4d1e9856b5074870228c8a5ebb87f25e4444e47240eb17"
+            "hash": "3648effaf4c71de49f1033ccd10e53ed24708840ef9dbbd768a83fa08e1511fb"
         },
         "arm64": {
             "url": "https://github.com/arenzana/arca/releases/download/v0.6.1/arca_0.6.1_windows_arm64.zip",
             "bin": [
                 "arca.exe"
             ],
-            "hash": "fff597f3357e8fbae39c338000e0e136a68fef31cc13c9d6ce2133d318440fc3"
+            "hash": "ebc772aae9f41c31d52aef8e758deabc152f8e341baeb5a821ae3c88584438b3"
         }
     },
     "homepage": "https://github.com/arenzana/arca",
