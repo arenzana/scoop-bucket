@@ -1,19 +1,19 @@
 {
-    "version": "0.9.1",
+    "version": "0.9.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/arenzana/arca/releases/download/v0.9.1/arca_0.9.1_windows_amd64.zip",
+            "url": "https://github.com/arenzana/arca/releases/download/v0.9.2/arca_0.9.2_windows_amd64.zip",
             "bin": [
                 "arca.exe"
             ],
-            "hash": "04dacb6bc2a78399951f7945e31770951174ca79ad2626cf72e68cc1391c25d5"
+            "hash": "18d63803d0ba284a395f14612258187c6093f9e2b5fa8ccba18928e71b8da91b"
         },
         "arm64": {
-            "url": "https://github.com/arenzana/arca/releases/download/v0.9.1/arca_0.9.1_windows_arm64.zip",
+            "url": "https://github.com/arenzana/arca/releases/download/v0.9.2/arca_0.9.2_windows_arm64.zip",
             "bin": [
                 "arca.exe"
             ],
-            "hash": "3585741dff9985fd7ef6a01032b17715470fba7992e52e178f03fd74716ecb1a"
+            "hash": "13b3968296f54054925d088e0b9dbabbd5e07764d42401e4cf80ca95a509adb6"
         }
     },
     "homepage": "https://github.com/arenzana/arca",
